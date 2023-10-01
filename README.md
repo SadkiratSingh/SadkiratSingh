@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### I'm Sadkirat, implementing R&D of complex AI projects involving NLP/NLU/NLG, knowledge graphs, knowledge representation having gathered 2+ years of experience in the Industry.
+## I'm Sadkirat, implementing R&D of complex AI projects involving NLP/NLU/NLG, knowledge graphs, knowledge representation having gathered 2+ years of experience in the Industry.
 
 ✅ Working with various LLM models(text-embedding-ada-002, davinci, gpt-3.5, gpt-4 etc.) and libraries provided by OpenAI to help in NLP/NLG, document search tasks.
 
